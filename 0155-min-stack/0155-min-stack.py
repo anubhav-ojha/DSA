@@ -11,9 +11,6 @@ class MinStack:
         
 
     def pop(self) -> None:
-        if not self.stack:
-            return None
-        else:
             self.stack.pop()
             self.minStack.pop()
         
