@@ -13,11 +13,10 @@ class Solution:
             
             if target == midV:
                 return True
-            elif midV < target:
-                left = mid +1
-            else:
-                
+            elif target < midV:
                 right = mid -1
+            elif target > midV:
+                left = mid +1
         return False         
             
          
