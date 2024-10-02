@@ -6,6 +6,7 @@ DSA problem - solutions
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/anubhav-ojha/DSA/tree/master/0283-move-zeroes) |
 | [0539-minimum-time-difference](https://github.com/anubhav-ojha/DSA/tree/master/0539-minimum-time-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/anubhav-ojha/DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/anubhav-ojha/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -31,4 +32,8 @@ DSA problem - solutions
 |  |
 | ------- |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/anubhav-ojha/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/anubhav-ojha/DSA/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
