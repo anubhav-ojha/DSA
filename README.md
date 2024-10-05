@@ -11,6 +11,7 @@ DSA problem - solutions
 | [0303-range-sum-query-immutable](https://github.com/anubhav-ojha/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0539-minimum-time-difference](https://github.com/anubhav-ojha/DSA/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/anubhav-ojha/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/anubhav-ojha/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/anubhav-ojha/DSA/tree/master/0724-find-pivot-index) |
 | [1256-rank-transform-of-an-array](https://github.com/anubhav-ojha/DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/anubhav-ojha/DSA/tree/master/1603-running-sum-of-1d-array) |
@@ -61,4 +62,8 @@ DSA problem - solutions
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/anubhav-ojha/DSA/tree/master/0303-range-sum-query-immutable) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/anubhav-ojha/DSA/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
