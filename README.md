@@ -33,6 +33,7 @@ DSA problem - solutions
 | [1923-sentence-similarity-iii](https://github.com/anubhav-ojha/DSA/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/anubhav-ojha/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/anubhav-ojha/DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3195-separate-black-and-white-balls](https://github.com/anubhav-ojha/DSA/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
 |  |
 | ------- |
@@ -60,6 +61,7 @@ DSA problem - solutions
 | [1923-sentence-similarity-iii](https://github.com/anubhav-ojha/DSA/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/anubhav-ojha/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/anubhav-ojha/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3195-separate-black-and-white-balls](https://github.com/anubhav-ojha/DSA/tree/master/3195-separate-black-and-white-balls) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -100,6 +102,7 @@ DSA problem - solutions
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/anubhav-ojha/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/anubhav-ojha/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [3195-separate-black-and-white-balls](https://github.com/anubhav-ojha/DSA/tree/master/3195-separate-black-and-white-balls) |
 ## Monotonic Stack
 |  |
 | ------- |
