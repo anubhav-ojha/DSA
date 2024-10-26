@@ -21,6 +21,7 @@ DSA problem - solutions
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/anubhav-ojha/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1923-sentence-similarity-iii](https://github.com/anubhav-ojha/DSA/tree/master/1923-sentence-similarity-iii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/anubhav-ojha/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/anubhav-ojha/DSA/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/anubhav-ojha/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Math
 |  |
@@ -132,8 +133,21 @@ DSA problem - solutions
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/anubhav-ojha/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/anubhav-ojha/DSA/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Trie
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/anubhav-ojha/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Tree
+|  |
+| ------- |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/anubhav-ojha/DSA/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/anubhav-ojha/DSA/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+## Binary Tree
+|  |
+| ------- |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/anubhav-ojha/DSA/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 <!---LeetCode Topics End-->
