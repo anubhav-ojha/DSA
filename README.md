@@ -41,6 +41,7 @@ DSA problem - solutions
 | [1923-sentence-similarity-iii](https://github.com/anubhav-ojha/DSA/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/anubhav-ojha/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/anubhav-ojha/DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/anubhav-ojha/DSA/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/anubhav-ojha/DSA/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
 |  |
