@@ -24,6 +24,7 @@ DSA problem - solutions
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/anubhav-ojha/DSA/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2554-minimum-total-distance-traveled](https://github.com/anubhav-ojha/DSA/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/anubhav-ojha/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3291-find-if-array-can-be-sorted](https://github.com/anubhav-ojha/DSA/tree/master/3291-find-if-array-can-be-sorted) |
 ## Math
 |  |
 | ------- |
@@ -50,6 +51,7 @@ DSA problem - solutions
 | [1256-rank-transform-of-an-array](https://github.com/anubhav-ojha/DSA/tree/master/1256-rank-transform-of-an-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/anubhav-ojha/DSA/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/anubhav-ojha/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3291-find-if-array-can-be-sorted](https://github.com/anubhav-ojha/DSA/tree/master/3291-find-if-array-can-be-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,6 +133,7 @@ DSA problem - solutions
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/anubhav-ojha/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3291-find-if-array-can-be-sorted](https://github.com/anubhav-ojha/DSA/tree/master/3291-find-if-array-can-be-sorted) |
 ## Enumeration
 |  |
 | ------- |
