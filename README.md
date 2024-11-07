@@ -21,6 +21,7 @@ DSA problem - solutions
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/anubhav-ojha/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1923-sentence-similarity-iii](https://github.com/anubhav-ojha/DSA/tree/master/1923-sentence-similarity-iii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/anubhav-ojha/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/anubhav-ojha/DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/anubhav-ojha/DSA/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2554-minimum-total-distance-traveled](https://github.com/anubhav-ojha/DSA/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/anubhav-ojha/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -59,11 +60,13 @@ DSA problem - solutions
 | [0567-permutation-in-string](https://github.com/anubhav-ojha/DSA/tree/master/0567-permutation-in-string) |
 | [1256-rank-transform-of-an-array](https://github.com/anubhav-ojha/DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/anubhav-ojha/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/anubhav-ojha/DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/anubhav-ojha/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Counting
 |  |
 | ------- |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/anubhav-ojha/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/anubhav-ojha/DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -133,6 +136,7 @@ DSA problem - solutions
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/anubhav-ojha/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/anubhav-ojha/DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/anubhav-ojha/DSA/tree/master/3291-find-if-array-can-be-sorted) |
 ## Enumeration
 |  |
