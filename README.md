@@ -25,11 +25,13 @@ DSA problem - solutions
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/anubhav-ojha/DSA/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2554-minimum-total-distance-traveled](https://github.com/anubhav-ojha/DSA/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/anubhav-ojha/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2716-prime-subtraction-operation](https://github.com/anubhav-ojha/DSA/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/anubhav-ojha/DSA/tree/master/3291-find-if-array-can-be-sorted) |
 ## Math
 |  |
 | ------- |
 | [0539-minimum-time-difference](https://github.com/anubhav-ojha/DSA/tree/master/0539-minimum-time-difference) |
+| [2716-prime-subtraction-operation](https://github.com/anubhav-ojha/DSA/tree/master/2716-prime-subtraction-operation) |
 ## String
 |  |
 | ------- |
@@ -102,6 +104,7 @@ DSA problem - solutions
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anubhav-ojha/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2716-prime-subtraction-operation](https://github.com/anubhav-ojha/DSA/tree/master/2716-prime-subtraction-operation) |
 ## Stack
 |  |
 | ------- |
@@ -119,6 +122,7 @@ DSA problem - solutions
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/anubhav-ojha/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/anubhav-ojha/DSA/tree/master/1304-longest-happy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/anubhav-ojha/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2716-prime-subtraction-operation](https://github.com/anubhav-ojha/DSA/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/anubhav-ojha/DSA/tree/master/3195-separate-black-and-white-balls) |
 ## Monotonic Stack
 |  |
@@ -167,4 +171,8 @@ DSA problem - solutions
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/anubhav-ojha/DSA/tree/master/0812-rotate-string) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/anubhav-ojha/DSA/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
