@@ -26,6 +26,7 @@ DSA problem - solutions
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/anubhav-ojha/DSA/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2554-minimum-total-distance-traveled](https://github.com/anubhav-ojha/DSA/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/anubhav-ojha/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/anubhav-ojha/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2716-prime-subtraction-operation](https://github.com/anubhav-ojha/DSA/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/anubhav-ojha/DSA/tree/master/3291-find-if-array-can-be-sorted) |
 ## Math
@@ -120,6 +121,7 @@ DSA problem - solutions
 ## Simulation
 |  |
 | ------- |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/anubhav-ojha/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/anubhav-ojha/DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Greedy
 |  |
@@ -137,6 +139,7 @@ DSA problem - solutions
 |  |
 | ------- |
 | [1304-longest-happy-string](https://github.com/anubhav-ojha/DSA/tree/master/1304-longest-happy-string) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/anubhav-ojha/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Backtracking
 |  |
 | ------- |
