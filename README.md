@@ -28,6 +28,7 @@ DSA problem - solutions
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/anubhav-ojha/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/anubhav-ojha/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2716-prime-subtraction-operation](https://github.com/anubhav-ojha/DSA/tree/master/2716-prime-subtraction-operation) |
+| [2868-continuous-subarrays](https://github.com/anubhav-ojha/DSA/tree/master/2868-continuous-subarrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/anubhav-ojha/DSA/tree/master/3291-find-if-array-can-be-sorted) |
 ## Math
 |  |
@@ -105,6 +106,7 @@ DSA problem - solutions
 | ------- |
 | [0567-permutation-in-string](https://github.com/anubhav-ojha/DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/anubhav-ojha/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [2868-continuous-subarrays](https://github.com/anubhav-ojha/DSA/tree/master/2868-continuous-subarrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -140,6 +142,7 @@ DSA problem - solutions
 | ------- |
 | [1304-longest-happy-string](https://github.com/anubhav-ojha/DSA/tree/master/1304-longest-happy-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/anubhav-ojha/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2868-continuous-subarrays](https://github.com/anubhav-ojha/DSA/tree/master/2868-continuous-subarrays) |
 ## Backtracking
 |  |
 | ------- |
@@ -183,4 +186,16 @@ DSA problem - solutions
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/anubhav-ojha/DSA/tree/master/2716-prime-subtraction-operation) |
+## Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/anubhav-ojha/DSA/tree/master/2868-continuous-subarrays) |
+## Ordered Set
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/anubhav-ojha/DSA/tree/master/2868-continuous-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/anubhav-ojha/DSA/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
