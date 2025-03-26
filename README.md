@@ -21,6 +21,7 @@ DSA problem - solutions
 | [1603-running-sum-of-1d-array](https://github.com/anubhav-ojha/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/anubhav-ojha/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1923-sentence-similarity-iii](https://github.com/anubhav-ojha/DSA/tree/master/1923-sentence-similarity-iii) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/anubhav-ojha/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/anubhav-ojha/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/anubhav-ojha/DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/anubhav-ojha/DSA/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -34,6 +35,7 @@ DSA problem - solutions
 |  |
 | ------- |
 | [0539-minimum-time-difference](https://github.com/anubhav-ojha/DSA/tree/master/0539-minimum-time-difference) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/anubhav-ojha/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2716-prime-subtraction-operation](https://github.com/anubhav-ojha/DSA/tree/master/2716-prime-subtraction-operation) |
 ## String
 |  |
@@ -56,6 +58,7 @@ DSA problem - solutions
 | [0539-minimum-time-difference](https://github.com/anubhav-ojha/DSA/tree/master/0539-minimum-time-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/anubhav-ojha/DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anubhav-ojha/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/anubhav-ojha/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2554-minimum-total-distance-traveled](https://github.com/anubhav-ojha/DSA/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/anubhav-ojha/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3291-find-if-array-can-be-sorted](https://github.com/anubhav-ojha/DSA/tree/master/3291-find-if-array-can-be-sorted) |
@@ -198,4 +201,8 @@ DSA problem - solutions
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/anubhav-ojha/DSA/tree/master/2868-continuous-subarrays) |
+## Matrix
+|  |
+| ------- |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/anubhav-ojha/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 <!---LeetCode Topics End-->
