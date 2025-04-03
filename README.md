@@ -31,6 +31,7 @@ DSA problem - solutions
 | [2716-prime-subtraction-operation](https://github.com/anubhav-ojha/DSA/tree/master/2716-prime-subtraction-operation) |
 | [2868-continuous-subarrays](https://github.com/anubhav-ojha/DSA/tree/master/2868-continuous-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/anubhav-ojha/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/anubhav-ojha/DSA/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/anubhav-ojha/DSA/tree/master/3291-find-if-array-can-be-sorted) |
 ## Math
 |  |
