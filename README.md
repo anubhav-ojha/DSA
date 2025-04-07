@@ -10,6 +10,7 @@ DSA problem - solutions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anubhav-ojha/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/anubhav-ojha/DSA/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/anubhav-ojha/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0416-partition-equal-subset-sum](https://github.com/anubhav-ojha/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0539-minimum-time-difference](https://github.com/anubhav-ojha/DSA/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/anubhav-ojha/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/anubhav-ojha/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -96,6 +97,7 @@ DSA problem - solutions
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anubhav-ojha/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0416-partition-equal-subset-sum](https://github.com/anubhav-ojha/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [2554-minimum-total-distance-traveled](https://github.com/anubhav-ojha/DSA/tree/master/2554-minimum-total-distance-traveled) |
 ## Prefix Sum
 |  |
