@@ -34,6 +34,7 @@ DSA problem - solutions
 | [2888-minimum-index-of-a-valid-split](https://github.com/anubhav-ojha/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/anubhav-ojha/DSA/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/anubhav-ojha/DSA/tree/master/3291-find-if-array-can-be-sorted) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/anubhav-ojha/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Math
 |  |
 | ------- |
@@ -77,6 +78,7 @@ DSA problem - solutions
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/anubhav-ojha/DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/anubhav-ojha/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/anubhav-ojha/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/anubhav-ojha/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Counting
 |  |
 | ------- |
