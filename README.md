@@ -41,6 +41,7 @@ DSA problem - solutions
 | [0539-minimum-time-difference](https://github.com/anubhav-ojha/DSA/tree/master/0539-minimum-time-difference) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/anubhav-ojha/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2716-prime-subtraction-operation](https://github.com/anubhav-ojha/DSA/tree/master/2716-prime-subtraction-operation) |
+| [2998-count-symmetric-integers](https://github.com/anubhav-ojha/DSA/tree/master/2998-count-symmetric-integers) |
 ## String
 |  |
 | ------- |
@@ -168,6 +169,7 @@ DSA problem - solutions
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/anubhav-ojha/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2998-count-symmetric-integers](https://github.com/anubhav-ojha/DSA/tree/master/2998-count-symmetric-integers) |
 ## Depth-First Search
 |  |
 | ------- |
