@@ -175,6 +175,7 @@ DSA problem - solutions
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/anubhav-ojha/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/anubhav-ojha/DSA/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/anubhav-ojha/DSA/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Trie
 |  |
 | ------- |
@@ -183,10 +184,12 @@ DSA problem - solutions
 |  |
 | ------- |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/anubhav-ojha/DSA/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/anubhav-ojha/DSA/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/anubhav-ojha/DSA/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/anubhav-ojha/DSA/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
 |  |
 | ------- |
