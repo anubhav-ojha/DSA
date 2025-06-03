@@ -19,6 +19,7 @@ DSA problem - solutions
 | [1002-maximum-width-ramp](https://github.com/anubhav-ojha/DSA/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/anubhav-ojha/DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/anubhav-ojha/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/anubhav-ojha/DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/anubhav-ojha/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1603-running-sum-of-1d-array](https://github.com/anubhav-ojha/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/anubhav-ojha/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -191,6 +192,7 @@ DSA problem - solutions
 |  |
 | ------- |
 | [0945-snakes-and-ladders](https://github.com/anubhav-ojha/DSA/tree/master/0945-snakes-and-ladders) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/anubhav-ojha/DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/anubhav-ojha/DSA/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/anubhav-ojha/DSA/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
@@ -225,5 +227,6 @@ DSA problem - solutions
 ## Graph
 |  |
 | ------- |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/anubhav-ojha/DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/anubhav-ojha/DSA/tree/master/2438-find-closest-node-to-given-two-nodes) |
 <!---LeetCode Topics End-->
