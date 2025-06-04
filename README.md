@@ -59,6 +59,7 @@ DSA problem - solutions
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/anubhav-ojha/DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/anubhav-ojha/DSA/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/anubhav-ojha/DSA/tree/master/3195-separate-black-and-white-balls) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/anubhav-ojha/DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Sorting
 |  |
 | ------- |
@@ -98,6 +99,7 @@ DSA problem - solutions
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/anubhav-ojha/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/anubhav-ojha/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3195-separate-black-and-white-balls](https://github.com/anubhav-ojha/DSA/tree/master/3195-separate-black-and-white-balls) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/anubhav-ojha/DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -172,6 +174,7 @@ DSA problem - solutions
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/anubhav-ojha/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2998-count-symmetric-integers](https://github.com/anubhav-ojha/DSA/tree/master/2998-count-symmetric-integers) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/anubhav-ojha/DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Depth-First Search
 |  |
 | ------- |
