@@ -51,6 +51,7 @@ DSA problem - solutions
 | [0567-permutation-in-string](https://github.com/anubhav-ojha/DSA/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/anubhav-ojha/DSA/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/anubhav-ojha/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/anubhav-ojha/DSA/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/anubhav-ojha/DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/anubhav-ojha/DSA/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/anubhav-ojha/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -232,4 +233,8 @@ DSA problem - solutions
 | ------- |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/anubhav-ojha/DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/anubhav-ojha/DSA/tree/master/2438-find-closest-node-to-given-two-nodes) |
+## Union Find
+|  |
+| ------- |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/anubhav-ojha/DSA/tree/master/1058-lexicographically-smallest-equivalent-string) |
 <!---LeetCode Topics End-->
