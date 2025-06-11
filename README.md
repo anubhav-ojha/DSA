@@ -62,6 +62,7 @@ DSA problem - solutions
 | [3195-separate-black-and-white-balls](https://github.com/anubhav-ojha/DSA/tree/master/3195-separate-black-and-white-balls) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/anubhav-ojha/DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/anubhav-ojha/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/anubhav-ojha/DSA/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -117,6 +118,7 @@ DSA problem - solutions
 | [0560-subarray-sum-equals-k](https://github.com/anubhav-ojha/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/anubhav-ojha/DSA/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/anubhav-ojha/DSA/tree/master/1603-running-sum-of-1d-array) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/anubhav-ojha/DSA/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Design
 |  |
 | ------- |
@@ -127,6 +129,7 @@ DSA problem - solutions
 | [0567-permutation-in-string](https://github.com/anubhav-ojha/DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/anubhav-ojha/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [2868-continuous-subarrays](https://github.com/anubhav-ojha/DSA/tree/master/2868-continuous-subarrays) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/anubhav-ojha/DSA/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -179,6 +182,7 @@ DSA problem - solutions
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/anubhav-ojha/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2998-count-symmetric-integers](https://github.com/anubhav-ojha/DSA/tree/master/2998-count-symmetric-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/anubhav-ojha/DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/anubhav-ojha/DSA/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Depth-First Search
 |  |
 | ------- |
