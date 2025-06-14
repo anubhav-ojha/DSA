@@ -42,6 +42,7 @@ DSA problem - solutions
 | ------- |
 | [0539-minimum-time-difference](https://github.com/anubhav-ojha/DSA/tree/master/0539-minimum-time-difference) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/anubhav-ojha/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/anubhav-ojha/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/anubhav-ojha/DSA/tree/master/2716-prime-subtraction-operation) |
 | [2998-count-symmetric-integers](https://github.com/anubhav-ojha/DSA/tree/master/2998-count-symmetric-integers) |
 ## String
@@ -154,6 +155,7 @@ DSA problem - solutions
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/anubhav-ojha/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/anubhav-ojha/DSA/tree/master/1304-longest-happy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/anubhav-ojha/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/anubhav-ojha/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/anubhav-ojha/DSA/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/anubhav-ojha/DSA/tree/master/3195-separate-black-and-white-balls) |
 ## Monotonic Stack
