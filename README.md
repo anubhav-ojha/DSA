@@ -24,6 +24,7 @@ DSA problem - solutions
 | [1603-running-sum-of-1d-array](https://github.com/anubhav-ojha/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/anubhav-ojha/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1923-sentence-similarity-iii](https://github.com/anubhav-ojha/DSA/tree/master/1923-sentence-similarity-iii) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/anubhav-ojha/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/anubhav-ojha/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/anubhav-ojha/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/anubhav-ojha/DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
